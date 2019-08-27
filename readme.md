@@ -2,6 +2,14 @@
 <p>app create on laravel 5.8. Data base - MongoDB</p>
 
 <p>Must install <a href="https://pecl.php.net/package/zmq">ZMQ</a></p>
+<p>Clone repositories</p>
+<code>
+    git clone https://github.com/Vasylevs/push-notification.git
+</code>
+<p>Install require</p>
+<code>
+    composer install
+</code>
 
 <p>Start pusher server with console command</p>
 <code>
